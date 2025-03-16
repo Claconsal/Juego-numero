@@ -2,3 +2,4 @@
 . Estado del proyecto terminado
 para ejecutar el sistema debes poner
 https://claconsal.github.io/Juego-numero/
+actualizacion e registro
